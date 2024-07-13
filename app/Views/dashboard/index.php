@@ -64,6 +64,15 @@
                     <ol class="breadcrumb mb-4">
                         <li class="breadcrumb-item active">Dashboard</li>
                     </ol>
+                    <div class="card mb-4">
+                        <div class="card-body text-center">
+                            <img src="<?= base_url('assets-landing/images/logo.png') ?>" alt="Logo" width="150px" class="mb-4">
+                            <h2><b>SISTEM INFORMASI GEOGRAFIS</b></h2>
+                            <h2><b>PENDATAAN KANTOR BUPATI</b></h2>
+                            <a class="btn btn-primary mt-3" href="<?= base_url('/index') ?>">Lihat Halaman Web</a>
+                        </div>
+                    </div>
+                </div>
             </main>
             <footer class="py-4 bg-light mt-auto">
                 <div class="container-fluid px-4">
